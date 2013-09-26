@@ -1,0 +1,22 @@
+./configure --prefix="/home/yaozhang/software" --enable-openmp PYTHON="/usr/bin/python2.7" CPPFLAGS="-I/home/yaozhang/software/include" LDFLAGS="-L/home/yaozhang/software/lib"  CAIROMM_CFLAGS="-I/usr/include"  CAIROMM_LIBS="-L/usr/lib"
+
+LIBS="-l"
+
+ LIBFFI_CFLAGS
+              C compiler flags for LIBFFI, overriding pkg-config
+  LIBFFI_LIBS linker flags for LIBFFI, overriding pkg-config
+
+
+checking pycairo/pycairo.h usability... no
+checking pycairo/pycairo.h presence... no
+checking for pycairo/pycairo.h... no
+
+
+ ./configure --prefix="/home/yaozhang/soâ Command 'psort' from package 'radiance' (universe)
+ftware" --enable-openmp PYTHON="/usr/bin/python2.7" CPPFLAGS="-I/home/yaozhang/softwâ Command 'pork' from package 'pork' (universe)
+are/include" LIBS="-L/home/yaozhang/software/lib"  CAIROMM_CFLAGS="-I/home/yaozhang/â Command 'sort' from package 'coreutils' (main)
+software/include"  CAIROMM_LIBS="-L/software/yaozhang/software/lib" PKG_CONFIG_PATH=âport: command not found
+"/home/yaozhang/software/lib/pkgconfig"    
+
+ ./configure --prefix="/home/yaozhang/software" --enable-openmp PYTHON="/usr/bin/python2.7" CPPFLAGS="-I/home/yaozhang/software/include" LIBS="-L/home/yaozhang/software/lib"  CAIROMM_CFLAGS="-I/home/yaozhang/software/include"  CAIROMM_LIBS="-L/software/yaozhang/software/lib" PKG_CONFIG_PATH="/home/yaozhang/software/lib/pkgconfig"
+     
